@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,dart,flutter,css,html,js,git,github,eclipse,vscode,bash,linux,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=idea,java,css,html,js,git,github,eclipse,vscode,bash,linux,windows&perline=12" />
   </a>
 </p>
 <br>
@@ -38,16 +38,38 @@
   
 
 <!------------------------->
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/edgardo-josue-hidalgo-saldarriaga-73a753336/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/lalooosk_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/mns_lalo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 <div id="apoyo">
 <h2>Si quieres apoyarme 😻</h2>
   <p align="left">
  <a href='https://www.tiktok.com/@lalooosk__' rel='noopener' target='_blank'><img src='https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white'  align="left" height="50" width="230"/></a>
     
-<a href='https://www.instagram.com/lalooosk_/' rel='noopener' target='_blank'><img  src='https://www.matecito.co/public/button_11.png' align="left" height="50" width="240" /></a>
 
     
     
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
   </p>
 </div>
   <br>
